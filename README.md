@@ -19,7 +19,7 @@
 
 🌱 I’m currently learning NextJs, NodeJs and MongoDB
 
-💬 I would like to join any project's as a Front-End Developer
+💬 I would like to join any project as a Front-End Developer
 </div>
 <br>
 <div align="center"> 
