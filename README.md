@@ -17,7 +17,7 @@
 
 🔭 I’m currently working on my personal portfolio website
 
-🌱 I’m currently learning NextJs, NodeJs and MongoDB
+🌱 I’m currently learning NextJs, NodeJs and Java
 
 💬 I would like to join any project as a Front-End Developer
 </div>
@@ -43,8 +43,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb," />
+    <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,vscode,github,figma," />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,firebase,git" />
 </div>
 <br/>
 <hr />
