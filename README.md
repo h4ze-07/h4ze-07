@@ -17,7 +17,7 @@
 
 🔭 I’m currently working on my personal portfolio website
 
-🌱 I’m currently learning NextJs, NodeJs and Java
+🌱 I’m currently learning NextJs and React Native
 
 💬 I would like to join any project as a Front-End Developer
 </div>
