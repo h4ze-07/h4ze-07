@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!👋+My+name+is+Vlad!;" />
 </h1>
 
-<h3 align="center">I'm a passionate Front-End Developer from Ukraine</h3>
+<h3 align="center">I'm Front-End Developer from Ukraine</h3>
 
 <br/>
 <div align="center">
