@@ -11,7 +11,7 @@
 <br/>
 <div align="center">
 
-🔭 I’m currently working on my personal portfolio website
+🔭 I’m currently working at <a href="https://mkeymedia.com/en" target="_blank" style="color: red;">mkey media</a>
 
 🌱 I’m currently learning NextJs and React Native
 
