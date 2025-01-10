@@ -54,7 +54,7 @@
 <h2 align="center">⚡ My Stats ⚡</h2>
 <br>
 <div align=center>
-   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=h4ze-07&theme=microsoft-dark" alt="GitHub Streak" /></a>
+   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=h4ze-07" alt="GitHub Streak" /></a>
    <img src="https://github-readme-stats.vercel.app/api?username=h4ze-07&show_icons=true&locale=en&theme=react" alt="h4ze-07" /> <br/>
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=h4ze-07&show_icons=true&locale=en&layout=compact&theme=react" alt="h4ze-07" />
 </div>
