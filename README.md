@@ -13,7 +13,7 @@
 
 🔭 I’m currently working at <a href="https://mkeymedia.com/en" target="_blank" style="color: red;">mkey media</a>
 
-🌱 I’m currently learning NextJs and React Native
+🌱 I’m currently learning NextJs and Express
 
 💬 I would like to join any project as a Front-End Developer
 </div>
