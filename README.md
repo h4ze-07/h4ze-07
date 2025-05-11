@@ -11,7 +11,9 @@
 <br/>
 <div align="center">
 
-🔭 I’m currently working at <a href="https://mkeymedia.com/en" target="_blank" style="color: red;">mkey media</a>
+🔭 I’m currently working at <a href="https://mkeymedia.com/en" target="_blank" style="color: red;">MKEY MEDIA</a>
+
+📫 Reach me: haze.dev67@gmail.com or Telegram (<a href="https://t.me/vlad_b01" target="_blank" style="color: red;">@vlad_b01</a>).
 
 🌱 I’m currently learning NextJs and Express
 
